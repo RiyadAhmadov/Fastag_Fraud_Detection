@@ -1,6 +1,6 @@
 # Fastag Fraud Detection
 
-![Fastag Fraud Detection](https://storage.googleapis.com/kaggle-datasets-images/4314015/7415794/07d9eeb085f51a94f22c4c9e07bc11b3/dataset-cover.jpg?t=2024-01-16-19-25-41)
+![Fastag Fraud Detection](https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/01/fastag-scam-1579673546.jpg)
 
 ## Dataset Description
 
