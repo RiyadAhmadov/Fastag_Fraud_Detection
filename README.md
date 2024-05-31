@@ -1,6 +1,6 @@
 # Fastag Fraud Detection
 
-![Fastag Fraud Detection](https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/01/fastag-scam-1579673546.jpg)
+![Fastag Fraud Detection](https://m.economictimes.com/thumb/msid-92496783,width-1600,height-900,resizemode-4,imgsize-62926/fastag-all-vehicles.jpg)
 
 ## Dataset Description
 
